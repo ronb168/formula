@@ -20,4 +20,4 @@ Finally, I made a gui to make the data more convenient to the eye.
 * Creating a gui in tkinter
 * Connecting to the database in the SQL file (via mysql.connector - package) 
 * Handling a SQL exception 
-* Execution any query 
+* Execution of any query 
