@@ -1,6 +1,6 @@
 # Formula
 
-Formula project includes two files - SQL file and Python file.
+Formula project includes two files - SQL file and a Python file.
 
 ### About the Project
 
@@ -11,12 +11,12 @@ Finally, I made a gui to make the data more convenient to the eye.
 
 ### Files Information
 
-###### Formula - SQL file 
+#### Formula - SQL file 
 * Data normalization
 * Designing databases
 * Writing complex queries in SQL
 
-###### Gui-Formula - Python file
+#### Gui-Formula - Python file
 * Creating a gui in tkinter
 * Connecting to the database in the SQL file (via mysql.connector - package) 
 * Handling an exception 
