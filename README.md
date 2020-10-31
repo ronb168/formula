@@ -13,7 +13,7 @@ Finally, I made a gui to make the data more convenient to the eye.
 
 #### Formula - SQL file 
 * Data normalization
-* Designing databases
+* Designing a database
 * Writing complex queries in SQL
 
 #### Gui-Formula - Python file
