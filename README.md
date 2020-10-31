@@ -19,5 +19,5 @@ Finally, I made a gui to make the data more convenient to the eye.
 #### Gui-Formula - Python file
 * Creating a gui in tkinter
 * Connecting to the database in the SQL file (via mysql.connector - package) 
-* Handling an exception 
+* Handling a SQL exception 
 * Execution any query 
