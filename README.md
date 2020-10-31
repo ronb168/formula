@@ -9,14 +9,14 @@ I designed the database for 2 types of system users who are fans and league admi
 Then I wanted to write complex queries to analyze information for the users of the database (for example: Displays the details of the drivers and the name of their car according to the total cumulative points they obtained in the round).
 Finally, I made a gui to make the data more convenient to the eye.
 
-### Explanation
+### Files Information
 
-###### SQL file 
+###### Formula - SQL file 
 * Data normalization
 * Designing databases
 * Writing complex queries in SQL
 
-###### Python file
+###### Gui-Formula - Python file
 * Creating a gui in tkinter
 * Connecting to the database in the SQL file (via mysql.connector - package) 
 * Handling an exception 
